@@ -1,0 +1,13 @@
+Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.
+
+Passo 1: Leia o elemento a ser buscado e uma lista de elementos.
+Passo 2: Inicialize um contador para controlar a posição atual na lista (começando por 0).
+Passo 3: Inicie um loop que percorre cada elemento da lista.
+    Passo 3.1: Verifique se o elemento atual na posição do contador é igual ao elemento buscado.
+        Passo 3.1.1: Se for igual, o elemento foi encontrado na posição atual. Vá para o passo 4.
+        Passo 3.1.2: Se não for igual, avance para o próximo elemento na lista.
+    Passo 3.2: Verifique se o contador atingiu o final da lista.
+        Passo 3.2.1: Se sim, o elemento buscado não foi encontrado na lista. Vá para o passo 5.
+        Passo 3.2.2: Se não, continue para o próximo elemento na lista.
+Passo 4: Exiba a posição do elemento buscado na lista.
+Passo 5: Exiba uma mensagem indicando que o elemento buscado não foi encontrado na lista.
