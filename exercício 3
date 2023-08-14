@@ -1,2 +1,7 @@
 Algoritmo de cálculo de média: um algoritmo que calcula a média de uma lista de números.
 
+leia lista de numeros
+leia quantidade de numeros
+para cada numero da lista + proximo numero
+entao resultado / quantidade de numeros
+escreva resultado
